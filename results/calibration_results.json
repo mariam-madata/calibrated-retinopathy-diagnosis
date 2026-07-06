@@ -1,0 +1,18 @@
+{
+  "logit_source": "SYNTHETIC demo logits (see demo/generate_demo_logits.py)",
+  "learned_temperature": 1.6505037546157837,
+  "before": {
+    "accuracy": 0.854,
+    "ece": 0.12246715638041492,
+    "mce": 0.3647228479385376,
+    "brier": 0.28493315891858134,
+    "nll": 0.9057138562202454
+  },
+  "after": {
+    "accuracy": 0.854,
+    "ece": 0.057003244102001166,
+    "mce": 0.5563234686851501,
+    "brier": 0.27426001849020387,
+    "nll": 0.6717839241027832
+  }
+}
